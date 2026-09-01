@@ -1,3 +1,5 @@
+Interested in a comprehensive listing of all currently [Build 26200.9278] renderable Unicode-chars, only? [Download ./dist/Generated=SegoeUI+Fallback.Unicode-Dirs.7z](./dist/Generated=SegoeUI+Fallback.Unicode-Dirs.7z)
+
 ![Description of genPlanes](./assets/genPlanes_Starter--help.png)
 ![Explorer-View: sort by name vs. sort by synthetic ctime](./assets/Explorer-Sort.png)
 ![Explorer-View with DFSO U+01F16D](./assets/Explorer-U+01F16D.png)
